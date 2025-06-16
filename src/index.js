@@ -9,6 +9,7 @@ import Clock from './chapter_04/Clock';
 import Comment from './chapter_05/Comment';
 import CommentList from './chapter_05/CommentList';
 import NotificationList from './chapter_06/NotificationList';
+import Accommodate from './chapter_07/Accommodate';
 
 console.log(`START::index.js----------------------------------------------->>>`)
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -16,7 +17,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 //setInterval(() => {
   root.render(
     <React.StrictMode>
-      <NotificationList />
+      <Accommodate />
     </React.StrictMode>
   );
 //}, 1000)
