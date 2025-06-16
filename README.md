@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### `npm install eslint-plugin-react-hooks --save-dev` https://www.npmjs.com/package/eslint-plugin-react-hooks 
+### 2025.06.16.처음 만난 리액트. https://www.frontoverflow.com/courses/%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-xWku7JUXdk_iN8zUCBqZM
