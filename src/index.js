@@ -10,6 +10,10 @@ import Comment from './chapter_05/Comment';
 import CommentList from './chapter_05/CommentList';
 import NotificationList from './chapter_06/NotificationList';
 import Accommodate from './chapter_07/Accommodate';
+import ConfirmButton from './chapter_08/ConfirmButton';
+import LandingPage from './chapter_09/LandingPage';
+import AttendanceBook from './chapter_10/AttendanceBook';
+import SignUp from './chapter_11/SignUp';
 
 console.log(`START::index.js----------------------------------------------->>>`)
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -17,9 +21,10 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 //setInterval(() => {
   root.render(
     <React.StrictMode>
-      <Accommodate />
+      <SignUp />
     </React.StrictMode>
   );
+
 //}, 1000)
 
 console.log(`END::index.js----------------------------------------------->>>`)

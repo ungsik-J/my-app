@@ -1,6 +1,4 @@
 import React from "react";
-console.clear()
-console.log(`START::Book----------------------------------------------->>>`)
 function Book(props) {
     return (
         <div>
@@ -9,5 +7,4 @@ function Book(props) {
         </div>
     );
 }
-console.log(`END::Book----------------------------------------------->>>`)
 export default Book;

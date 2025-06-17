@@ -1,6 +1,5 @@
 import React from "react";
 import Book from "./Book";
-console.log(`START::Library----------------------------------------------->>>`)
 function Library(props) {
     return (
         <div>
@@ -10,5 +9,4 @@ function Library(props) {
         </div>
     );
 }
-console.log(`END::Library----------------------------------------------->>>`)
 export default Library;
